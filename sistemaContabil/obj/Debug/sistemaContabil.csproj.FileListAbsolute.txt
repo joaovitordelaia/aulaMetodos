@@ -1,0 +1,6 @@
+C:\Users\usuario\Documents\João\sistemaContabil\bin\Debug\sistemaContabil.exe.config
+C:\Users\usuario\Documents\João\sistemaContabil\bin\Debug\sistemaContabil.exe
+C:\Users\usuario\Documents\João\sistemaContabil\bin\Debug\sistemaContabil.pdb
+C:\Users\usuario\Documents\João\sistemaContabil\obj\Debug\sistemaContabil.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\João\sistemaContabil\obj\Debug\sistemaContabil.exe
+C:\Users\usuario\Documents\João\sistemaContabil\obj\Debug\sistemaContabil.pdb

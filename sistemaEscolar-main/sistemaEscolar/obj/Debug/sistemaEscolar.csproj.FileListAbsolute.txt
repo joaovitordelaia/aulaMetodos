@@ -1,0 +1,6 @@
+C:\Users\usuario\Documents\João\sistemaEscolar\bin\Debug\sistemaEscolar.exe.config
+C:\Users\usuario\Documents\João\sistemaEscolar\bin\Debug\sistemaEscolar.exe
+C:\Users\usuario\Documents\João\sistemaEscolar\bin\Debug\sistemaEscolar.pdb
+C:\Users\usuario\Documents\João\sistemaEscolar\obj\Debug\sistemaEscolar.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\João\sistemaEscolar\obj\Debug\sistemaEscolar.exe
+C:\Users\usuario\Documents\João\sistemaEscolar\obj\Debug\sistemaEscolar.pdb
