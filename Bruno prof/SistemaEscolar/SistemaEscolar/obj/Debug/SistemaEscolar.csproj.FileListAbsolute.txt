@@ -1,0 +1,7 @@
+C:\Users\bruno\OneDrive\Área de Trabalho\SistemaEscolar\SistemaEscolar\bin\Debug\SistemaEscolar.exe.config
+C:\Users\bruno\OneDrive\Área de Trabalho\SistemaEscolar\SistemaEscolar\bin\Debug\SistemaEscolar.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\SistemaEscolar\SistemaEscolar\bin\Debug\SistemaEscolar.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\SistemaEscolar\SistemaEscolar\obj\Debug\SistemaEscolar.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\SistemaEscolar\SistemaEscolar\obj\Debug\SistemaEscolar.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\SistemaEscolar\SistemaEscolar\obj\Debug\SistemaEscolar.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\SistemaEscolar\SistemaEscolar\obj\Debug\SistemaEscolar.pdb

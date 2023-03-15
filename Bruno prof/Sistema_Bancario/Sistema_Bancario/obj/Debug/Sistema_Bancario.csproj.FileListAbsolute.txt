@@ -1,0 +1,7 @@
+C:\Users\bruno\OneDrive\Área de Trabalho\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.exe.config
+C:\Users\bruno\OneDrive\Área de Trabalho\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\Sistema_Bancario\Sistema_Bancario\bin\Debug\Sistema_Bancario.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\Sistema_Bancario\Sistema_Bancario\obj\Debug\Sistema_Bancario.csproj.AssemblyReference.cache
